@@ -1,0 +1,4 @@
+,Silhouette,Calinski-Harabasz,Davies-Bouldins
+K-Means Clustering,13.1343,53304.79,7.2942
+Hierarchical Clustering,13.2488,52503.62,7.3533
+Birch Clustering,13.1327,51311.97,7.3981
